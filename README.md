@@ -1,4 +1,4 @@
-# Getting-CleaningData
+# Getting and Cleaning Data
 
 # Project Name
 
